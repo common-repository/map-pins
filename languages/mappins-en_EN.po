@@ -1,0 +1,1232 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mappins\n"
+"POT-Creation-Date: 2014-01-09 14:31+0100\n"
+"PO-Revision-Date: 2014-01-09 14:33+0100\n"
+"Last-Translator: rvwoens <rvw@cosninix.com>\n"
+"Language-Team: innovader\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-"
+"content/plugins/map-pins\n"
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:24
+msgid "Sorry, the widget can only be embedded once per page"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:49
+msgid "Search city or zipcode"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:52
+msgid "my location"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:55
+msgid "now open"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:109
+msgid "Every day"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:109
+msgid "Mon-Fri"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:109
+msgid "Mon-Thr"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:110
+msgid "Monday"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:110
+msgid "Tuesday"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:110
+msgid "Wednesday"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:111
+msgid "Thursday"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:111
+msgid "Friday"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:111
+msgid "Saturday"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:111
+msgid "Sunday"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:112
+msgid "opening hours"
+msgstr "business hours"
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:113
+msgid "from"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:114
+msgid "till"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:115
+msgid "From"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:116
+msgid "Till"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:117
+msgid "Around this location"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:118
+msgid "Phone:"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:148
+msgid "MapPins - Settings"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:148
+msgid "Settings"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:149
+msgid "MapPins - Help"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:149
+msgid "Help"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:171
+msgid "Locations"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:171
+msgid "add"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:176
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:222
+msgid "Name"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:177
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:223
+msgid "Address"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:178
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:225
+msgid "City"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:179
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:231
+msgid "Category"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:180
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:235
+msgid "Icon"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:187
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:202
+msgid "Edit"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:187
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:202
+msgid "Trash"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:201
+msgid "Nothing found"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:202
+msgid "location"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:205
+msgid "No ID found"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:207
+msgid "New location"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:224
+msgid "Zipcode"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:226
+msgid "Country"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:230
+msgid "Telephone"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:240
+msgid "Website (incl. http://)"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:241
+msgid "Remarks"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:242
+msgid "Opening times"
+msgstr "Business hours"
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:243
+msgid "After hours notification"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:251
+msgid "Map"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:253
+msgid "Trash? Are you sure?"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:253
+msgid "Save"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:286
+msgid "Settings Updated"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:299
+msgid "Update Settings"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:312
+msgid "Mappins Configuration"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:314
+msgid "Admin menu name:"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:315
+msgid "Categories:<br>(comma separated list)"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:316
+msgid "Default country"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:317
+msgid "Available icons"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/mappins.php:321
+msgid ""
+"Need more icons? Just store them in wp-content/plugins/map-pins/pics/markers"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:14
+msgid "Australia"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:15
+msgid "Afghanistan"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:16
+msgid "Albania"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:17
+msgid "Algeria"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:18
+msgid "American Samoa"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:19
+msgid "Andorra"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:20
+msgid "Angola"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:21
+msgid "Anguilla"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:22
+msgid "Antarctica"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:23
+msgid "Antigua & Barbuda"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:24
+msgid "Argentina"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:25
+msgid "Armenia"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:26
+msgid "Aruba"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:27
+msgid "Austria"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:28
+msgid "Azerbaijan"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:29
+msgid "Bahamas"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:30
+msgid "Bahrain"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:31
+msgid "Bangladesh"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:32
+msgid "Barbados"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:33
+msgid "Belarus"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:34
+msgid "Belgium"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:35
+msgid "Belize"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:36
+msgid "Benin"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:37
+msgid "Bermuda"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:38
+msgid "Bhutan"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:39
+msgid "Bolivia"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:40
+msgid "Bosnia/Hercegovina"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:41
+msgid "Botswana"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:42
+msgid "Bouvet Island"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:43
+msgid "Brazil"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:44
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:45
+msgid "Brunei Darussalam"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:46
+msgid "Bulgaria"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:47
+msgid "Burkina Faso"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:48
+msgid "Burundi"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:49
+msgid "Cambodia"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:50
+msgid "Cameroon"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:51
+msgid "Canada"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:52
+msgid "Cape Verde"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:53
+msgid "Cayman Is"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:54
+msgid "Central African Republic"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:55
+msgid "Chad"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:56
+msgid "Chile"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:57
+msgid "China, People's Republic of"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:58
+msgid "Christmas Island"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:59
+msgid "Cocos Islands"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:60
+msgid "Colombia"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:61
+msgid "Comoros"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:62
+msgid "Congo"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:63
+msgid "Congo, Democratic Republic"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:64
+msgid "Cook Islands"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:65
+msgid "Costa Rica"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:66
+msgid "Cote d'Ivoire"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:67
+msgid "Croatia"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:68
+msgid "Cuba"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:69
+msgid "Cyprus"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:70
+msgid "Czech Republic"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:71
+msgid "Denmark"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:72
+msgid "Djibouti"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:73
+msgid "Dominica"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:74
+msgid "Dominican Republic"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:75
+msgid "East Timor"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:76
+msgid "Ecuador"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:77
+msgid "Egypt"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:78
+msgid "El Salvador"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:79
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:80
+msgid "Eritrea"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:81
+msgid "Estonia"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:82
+msgid "Ethiopia"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:83
+msgid "Falkland Islands"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:84
+msgid "Faroe Islands"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:85
+msgid "Fiji"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:86
+msgid "Finland"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:87
+msgid "France"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:88
+msgid "France, Metropolitan"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:89
+msgid "French Guiana"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:90
+msgid "French Polynesia"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:91
+msgid "French South Territories"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:92
+msgid "Gabon"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:93
+msgid "Gambia"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:94
+msgid "Georgia"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:95
+msgid "Germany"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:96
+msgid "Ghana"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:97
+msgid "Gibraltar"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:98
+msgid "Greece"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:99
+msgid "Greenland"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:100
+msgid "Grenada"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:101
+msgid "Guadeloupe"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:102
+msgid "Guam"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:103
+msgid "Guatemala"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:104
+msgid "Guinea"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:105
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:106
+msgid "Guyana"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:107
+msgid "Haiti"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:108
+msgid "Heard Island And Mcdonald Island"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:109
+msgid "Honduras"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:110
+msgid "Hong Kong"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:111
+msgid "Hungary"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:112
+msgid "Iceland"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:113
+msgid "India"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:114
+msgid "Indonesia"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:115
+msgid "Iran"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:116
+msgid "Iraq"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:117
+msgid "Ireland"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:118
+msgid "Israel"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:119
+msgid "Italy"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:120
+msgid "Jamaica"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:121
+msgid "Japan"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:122
+msgid "Johnston Island"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:123
+msgid "Jordan"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:124
+msgid "Kazakhstan"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:125
+msgid "Kenya"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:126
+msgid "Kiribati"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:127
+msgid "Korea, Democratic Peoples Republic"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:128
+msgid "Korea, Republic of"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:129
+msgid "Kuwait"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:130
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:131
+msgid "Lao People's Democratic Republic"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:132
+msgid "Latvia"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:133
+msgid "Lebanon"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:134
+msgid "Lesotho"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:135
+msgid "Liberia"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:136
+msgid "Libyan Arab Jamahiriya"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:137
+msgid "Liechtenstein"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:138
+msgid "Lithuania"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:139
+msgid "Luxembourg"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:140
+msgid "Macau"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:141
+msgid "Macedonia"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:142
+msgid "Madagascar"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:143
+msgid "Malawi"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:144
+msgid "Malaysia"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:145
+msgid "Maldives"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:146
+msgid "Mali"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:147
+msgid "Malta"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:148
+msgid "Marshall Islands"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:149
+msgid "Martinique"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:150
+msgid "Mauritania"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:151
+msgid "Mauritius"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:152
+msgid "Mayotte"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:153
+msgid "Mexico"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:154
+msgid "Micronesia"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:155
+msgid "Moldavia"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:156
+msgid "Monaco"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:157
+msgid "Mongolia"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:158
+msgid "Montserrat"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:159
+msgid "Morocco"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:160
+msgid "Mozambique"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:161
+msgid "Union Of Myanmar"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:162
+msgid "Namibia"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:163
+msgid "Nauru Island"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:164
+msgid "Nepal"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:165
+msgid "Netherlands"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:166
+msgid "Netherlands Antilles"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:167
+msgid "New Caledonia"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:168
+msgid "New Zealand"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:169
+msgid "Nicaragua"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:170
+msgid "Niger"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:171
+msgid "Nigeria"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:172
+msgid "Niue"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:173
+msgid "Norfolk Island"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:174
+msgid "Mariana Islands, Northern"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:175
+msgid "Norway"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:176
+msgid "Oman"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:177
+msgid "Pakistan"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:178
+msgid "Palau Islands"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:179
+msgid "Palestine"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:180
+msgid "Panama"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:181
+msgid "Papua New Guinea"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:182
+msgid "Paraguay"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:183
+msgid "Peru"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:184
+msgid "Philippines"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:185
+msgid "Pitcairn"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:186
+msgid "Poland"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:187
+msgid "Portugal"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:188
+msgid "Puerto Rico"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:189
+msgid "Qatar"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:190
+msgid "Reunion Island"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:191
+msgid "Romania"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:192
+msgid "Russian Federation"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:193
+msgid "Rwanda"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:194
+msgid "Samoa"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:195
+msgid "St Helena"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:196
+msgid "St Kitts & Nevis"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:197
+msgid "St Lucia"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:198
+msgid "St Pierre & Miquelon"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:199
+msgid "St Vincent"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:200
+msgid "San Marino"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:201
+msgid "Sao Tome & Principe"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:202
+msgid "Saudi Arabia"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:203
+msgid "Senegal"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:204
+msgid "Seychelles"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:205
+msgid "Sierra Leone"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:206
+msgid "Singapore"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:207
+msgid "Slovakia"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:208
+msgid "Slovenia"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:209
+msgid "Solomon Islands"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:210
+msgid "Somalia"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:211
+msgid "South Africa"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:212
+msgid "South Georgia and South Sandwich"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:213
+msgid "Spain"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:214
+msgid "Sri Lanka"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:215
+msgid "Stateless Persons"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:216
+msgid "Sudan"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:217
+msgid "Suriname"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:218
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:219
+msgid "Swaziland"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:220
+msgid "Sweden"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:221
+msgid "Switzerland"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:222
+msgid "Syrian Arab Republic"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:223
+msgid "Taiwan, Republic of China"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:224
+msgid "Tajikistan"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:225
+msgid "Tanzania"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:226
+msgid "Thailand"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:227
+msgid "Timor Leste"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:228
+msgid "Togo"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:229
+msgid "Tokelau"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:230
+msgid "Tonga"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:231
+msgid "Trinidad & Tobago"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:232
+msgid "Tunisia"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:233
+msgid "Turkey"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:234
+msgid "Turkmenistan"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:235
+msgid "Turks And Caicos Islands"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:236
+msgid "Tuvalu"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:237
+msgid "Uganda"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:238
+msgid "Ukraine"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:239
+msgid "United Arab Emirates"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:240
+msgid "United Kingdom"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:241
+msgid "US Minor Outlying Islands"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:242
+msgid "USA"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:243
+msgid "Upper Volta"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:244
+msgid "Uruguay"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:245
+msgid "Uzbekistan"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:246
+msgid "Vanuatu"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:247
+msgid "Vatican City State"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:248
+msgid "Venezuela"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:249
+msgid "Vietnam"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:250
+msgid "Virgin Islands (British)"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:251
+msgid "Virgin Islands (US)"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:252
+msgid "Wallis And Futuna Islands"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:253
+msgid "Western Sahara"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:254
+msgid "Yemen Arab Rep."
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:255
+msgid "Yemen Democratic"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:256
+msgid "Yugoslavia"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:257
+msgid "Zaire"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:258
+msgid "Zambia"
+msgstr ""
+
+#: /Users/rvw/proj/websites/sterkliniek/wpplugin/wp-content/plugins/map-pins/include/xcos_country.php:259
+msgid "Zimbabwe"
+msgstr ""
